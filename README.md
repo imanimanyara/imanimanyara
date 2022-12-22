@@ -2,7 +2,7 @@
 
 Hey there 👋
 
-I’m Imani, a senior full-stack engineer, creative coder and self-proclaimed designer who specializes in back-end, and front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+I’m Imani, a full-stack engineer, creative coder and self-proclaimed designer who specializes in back-end, and front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
 Want to know more about me? <a href="https://imanimanyara.com/" target="_blank">Check out my portfolio</a>
 
