@@ -1,4 +1,4 @@
-![github cover](https://github.com/imanimanyara/imanimanyara/assets/19682005/1830cae9-3e0d-4b10-bafc-02841693d10c)
+![github cover](https://github.com/imanimanyara/imanimanyara/assets/19682005/032c11f7-62f9-4e3e-9a1a-393031282d47)
 
 ## Professional Summary
 Hello! 👋 I'm Imani, a passionate Full Stack PHP/Laravel Developer with over a decade of experience in developing scalable web applications and enhancing system functionalities. I specialize in transforming complex challenges into streamlined, effective solutions using a blend of backend and frontend technologies. My approach is rooted in design thinking and human-centered design principles, ensuring the creation of user-centric solutions that drive conversions and enhance user experiences.
