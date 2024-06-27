@@ -4,13 +4,14 @@
 Hello! 👋 I'm Imani, a passionate Full Stack PHP/Laravel Developer with over a decade of experience in developing scalable web applications and enhancing system functionalities. I specialize in transforming complex challenges into streamlined, effective solutions using a blend of backend and frontend technologies. My approach is rooted in design thinking and human-centered design principles, ensuring the creation of user-centric solutions that drive conversions and enhance user experiences.
 
 ## Skills and Expertise
+- **Languages:** PHP, JavaScript, Python, TypeScript, SAAS, Rust, Go, Java, C++, C#, Swift, Objective C, HTML5, CSS3, XML, JSON, SOAP
 - **Backend Development:** Laravel, Zend PHP, Yii, CakePHP, Symfony
 - **Frontend Development:** VueJS, ReactJS, AngularJS
 - **UI/UX Design and Development**
 - **Cloud Technologies**
 - **Agile Methodologies**
 - **REST and GraphQL APIs**
-- **Frontend Frameworks:** Tailwind CSS, Bootstrap CSS, and custom design systems
+- **Frontend Frameworks:** Tailwind CSS, Bootstrap CSS, Bulma, Foundation Zurb, and custom design systems
 
 ## Approach
 My development approach is grounded in design thinking and human-centered design principles. By leveraging my creative eye and expertise in A/B testing, I develop user-centric solutions that enhance user experience and drive conversions. I prioritize understanding user needs and behaviors to ensure my solutions are both effective and engaging.
