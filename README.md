@@ -1,54 +1,55 @@
-![github cover](https://github.com/imanimanyara/imanimanyara/assets/19682005/032c11f7-62f9-4e3e-9a1a-393031282d47)
+<div align="center">
+  <a href="https://imanimanyara.com">
+    <img alt="Imani Manyara — senior software engineer" src="https://github.com/imanimanyara/imanimanyara/assets/19682005/032c11f7-62f9-4e3e-9a1a-393031282d47" width="888">
+  </a>
+</div>
+<!-- Replace the image above with the brand hero when assets/hero-{light,dark}.svg
+     land, per /opensource/simtabi-brand-design-standard.md:
+<div align="center">
+  <a href="https://imanimanyara.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+      <img alt="Imani Manyara — senior software engineer" src="assets/hero-light.svg" width="888">
+    </picture>
+  </a>
+</div>
+-->
 
-## Professional Summary
-Hello! 👋 I'm Imani, a passionate Full Stack PHP/Laravel Developer with over a decade of experience in developing scalable web applications and enhancing system functionalities. I specialize in transforming complex challenges into streamlined, effective solutions using a blend of backend and frontend technologies. My approach is rooted in design thinking and human-centered design principles, ensuring the creation of user-centric solutions that drive conversions and enhance user experiences.
+Senior software engineer and founder of [Simtabi](https://simtabi.com), a software
+design agency and design & branding studio. I build developer tooling and Laravel
+packages, and open-source the parts worth sharing.
 
-## Skills and Expertise
-- **Languages:** PHP, JavaScript, Python, TypeScript, SAAS, Rust, Go, Java, C++, C#, Swift, Objective C, HTML5, CSS3, XML, JSON, SOAP
-- **Backend Development:** Laravel, Zend PHP, Yii, CakePHP, Symfony
-- **Frontend Development:** VueJS, ReactJS, AngularJS
-- **UI/UX Design and Development**
-- **Cloud Technologies**
-- **Agile Methodologies**
-- **REST and GraphQL APIs**
-- **Frontend Frameworks:** Tailwind CSS, Bootstrap CSS, Bulma, Foundation Zurb, and custom design systems
+Author of the [laranail](https://github.com/laranail) package family —
+[`package-tools`](https://github.com/laranail/package-tools),
+[`package-scaffolder`](https://github.com/laranail/package-scaffolder),
+[`database-tools`](https://github.com/laranail/database-tools),
+[`console`](https://github.com/laranail/console),
+[`enumerator`](https://github.com/laranail/enumerator) — and of the developer
+tools at [@simtabi](https://github.com/simtabi), including
+[`probaci`](https://github.com/simtabi/probaci),
+[`osaat`](https://github.com/simtabi/osaat), and
+[`repoclone`](https://github.com/simtabi/repoclone). Everything we publish lives
+at [opensource.simtabi.com](https://opensource.simtabi.com).
 
-## Approach
-My development approach is grounded in design thinking and human-centered design principles. By leveraging my creative eye and expertise in A/B testing, I develop user-centric solutions that enhance user experience and drive conversions. I prioritize understanding user needs and behaviors to ensure my solutions are both effective and engaging.
+<!-- Activity since 2023 — enable after self-hosting streak-stats on Vercel
+     (DenverCoder1/github-readme-streak-stats + PAT), per the brand standard.
+     Shared public instances are rate-limited and must never be embedded.
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-INSTANCE.vercel.app/?user=imanimanyara&starting_year=2023&hide_border=true&background=00000000&stroke=E6E1DE&ring=FF5252&fire=FF7A45&currStreakLabel=FF9066&sideLabels=E6E1DE&currStreakNum=E6E1DE&sideNums=E6E1DE&dates=8B8683">
+    <img alt="Contributions since 2023" src="https://YOUR-INSTANCE.vercel.app/?user=imanimanyara&starting_year=2023&hide_border=true&background=00000000&stroke=1F1B1A&ring=C62828&fire=E8501B&currStreakLabel=C2410C&sideLabels=1F1B1A&currStreakNum=1F1B1A&sideNums=1F1B1A&dates=6B6461">
+  </picture>
+</div>
+-->
+<!-- Yearly activity calendar — uncomment after the metrics workflow
+     (.github/workflows/metrics.yml, METRICS_TOKEN secret) has run once:
+<div align="center">
+  <img alt="Contribution calendar" src="metrics.svg">
+</div>
+-->
 
-## Notable Projects and Achievements
-
-| Project                                                        | Description                                                                                                                | Key Results                                                   |
-|---------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| **Full Stack Agency/Studio Management SaaS Web Application**  | Created a comprehensive management web app for startups and creative agencies, featuring dynamic UI components and real-time data binding. | Improved operational efficiency by 40% and increased user satisfaction by 35%. |
-| **Full Stack SaaS Digital Newspaper Archiving System**        | Developed a digital archiving system with enhanced search and retrieval capabilities for newspapers and publications.      | Reduced access costs and saved the company thousands of dollars in lost revenue yearly. |
-| **Real-Time Chat Application**                                | Built a real-time chat application with AI features for instant messaging, file sharing, and notifications.                 | Enhanced user engagement by 30% and improved communication efficiency by 25%. |
-
-## Current Ventures
-- **[@laranail](https://github.com/laranail):** Creating an open-source collection of next-gen full-stack software and web development packages, enhancing coding workflows.
-- **BrandGulp:** Introducing a next-gen SaaS toolkit to help brands and startups build, grow, and monitor their success, from development to performance tracking.
-- **[@tayariai](https://tayari.ai):** Leading the development of advanced AI models to empower groundbreaking innovations, driving efficiency and progress.
-- **Singira:** A SaaS tool to help creatives and creative agencies successfully manage their projects and clients.
-
-## Contact Information
-- **X:** [@imanimanyara](https://x.com/imanimanyara)
-- **GitHub:** [github.com/imanimanyara](https://github.com/imanimanyara)
-- **Personal Website:** [imanimanyara.com](https://imanimanyara.com)
-
-I excel in transforming complex challenges into streamlined, effective solutions that address real-world needs. Let's connect and collaborate on something exceptional!
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/imanimanyara" target="blank"><img align="center" src="https://cdn.simtabi.com/cdn/tech-icons/alt-svg/devto.svg" alt="imanimanyara" height="30" width="40" /></a>
-<a href="https://twitter.com/imanimanyara" target="blank"><img align="center" src="https://cdn.simtabi.com/cdn/tech-icons/alt-svg/twitter.svg" alt="imanimanyara" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imanimanyara" target="blank"><img align="center" src="https://cdn.simtabi.com/cdn/tech-icons/alt-svg/linked-in-alt.svg" alt="imanimanyara" height="30" width="40" /></a>
-<a href="https://fb.com/imanimanyara" target="blank"><img align="center" src="https://cdn.simtabi.com/cdn/tech-icons/alt-svg/facebook.svg" alt="imanimanyara" height="30" width="40" /></a>
-<a href="https://instagram.com/imanimanyara" target="blank"><img align="center" src="https://cdn.simtabi.com/cdn/tech-icons/alt-svg/instagram.svg" alt="imanimanyara" height="30" width="40" /></a>
-<a href="https://dribbble.com/imanimanyara" target="blank"><img align="center" src="https://cdn.simtabi.com/cdn/tech-icons/alt-svg/dribbble.svg" alt="imanimanyara" height="30" width="40" /></a>
-<a href="https://medium.com/@imanimanyara" target="blank"><img align="center" src="https://cdn.simtabi.com/cdn/tech-icons/alt-svg/medium.svg" alt="@imanimanyara" height="30" width="40" /></a>
-</p>
-
-<!---
-imanimanyara/imanimanyara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[Website](https://imanimanyara.com) · [Simtabi](https://simtabi.com) ·
+[Open source](https://opensource.simtabi.com) ·
+[LinkedIn](https://linkedin.com/in/imanimanyara) ·
+[X](https://x.com/imanimanyara) ·
+[imani@simtabi.com](mailto:imani@simtabi.com)
