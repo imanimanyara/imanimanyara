@@ -7,19 +7,22 @@
   </a>
 </div>
 
-Imani Manyara is a software engineer working on developer tooling and Laravel
-packages at [Simtabi](https://simtabi.com). He maintains the
-[laranail](https://github.com/laranail) package family —
+Creator of the [laranail](https://github.com/laranail) package family —
 [`package-tools`](https://github.com/laranail/package-tools),
 [`package-scaffolder`](https://github.com/laranail/package-scaffolder),
 [`database-tools`](https://github.com/laranail/database-tools),
 [`console`](https://github.com/laranail/console), and
-[`enumerator`](https://github.com/laranail/enumerator) — and the developer
-tools at [@simtabi](https://github.com/simtabi), including
+[`enumerator`](https://github.com/laranail/enumerator).
+
+Founder of [Simtabi](https://simtabi.com), a software design agency and
+design & branding studio.
+
+Working on developer tooling at [@simtabi](https://github.com/simtabi) —
 [`probaci`](https://github.com/simtabi/probaci),
 [`osaat`](https://github.com/simtabi/osaat), and
-[`release-kit`](https://github.com/simtabi/release-kit). Everything Simtabi
-publishes lives at [opensource.simtabi.com](https://opensource.simtabi.com).
+[`release-kit`](https://github.com/simtabi/release-kit).
+
+Open source author: [opensource.simtabi.com](https://opensource.simtabi.com).
 
 <!-- Activity since 2023 — enable after self-hosting streak-stats on Vercel
      (DenverCoder1/github-readme-streak-stats + PAT), per the brand standard.
