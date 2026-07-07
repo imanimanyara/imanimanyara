@@ -1,8 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Imani Manyara — software engineer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Abstract artwork in warm flame tones">
   <defs>
     <linearGradient id="flame" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#E8501B"/>
       <stop offset="1" stop-color="#C62828"/>
+    </linearGradient>
+    <linearGradient id="ember" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#C62828"/>
+      <stop offset="1" stop-color="#E8501B"/>
     </linearGradient>
     <clipPath id="frame">
       <rect x="0" y="0" width="1200" height="400" rx="24"/>
@@ -10,9 +14,16 @@
   </defs>
   <g clip-path="url(#frame)">
     <rect x="0" y="0" width="1200" height="400" fill="#F7F3F0"/>
-    <circle cx="1130" cy="320" r="150" fill="none" stroke="url(#flame)" stroke-width="3" opacity="0.4"/>
-    <circle cx="1042" cy="120" r="9" fill="url(#flame)"/>
-    <text x="82" y="200" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-1.5" fill="#1F1B1A">Imani Manyara<tspan fill="#E8501B">.</tspan></text>
-    <text x="85" y="258" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" fill="#6B6461">Software engineer · Developer tooling and Laravel packages</text>
+    <circle cx="985" cy="105" r="230" fill="url(#flame)" opacity="0.9"/>
+    <circle cx="985" cy="105" r="310" fill="none" stroke="#E8501B" stroke-width="2" opacity="0.25"/>
+    <circle cx="230" cy="330" r="170" fill="url(#ember)" opacity="0.16"/>
+    <circle cx="230" cy="330" r="96" fill="none" stroke="url(#ember)" stroke-width="3" opacity="0.5"/>
+    <path d="M -40 300 Q 340 150 700 265 T 1260 190" fill="none" stroke="url(#flame)" stroke-width="3" opacity="0.55"/>
+    <path d="M -40 340 Q 360 205 720 305 T 1260 240" fill="none" stroke="#C62828" stroke-width="2" opacity="0.3"/>
+    <circle cx="565" cy="120" r="9" fill="#FFB300"/>
+    <circle cx="655" cy="88" r="5" fill="#E8501B" opacity="0.7"/>
+    <circle cx="480" cy="182" r="4" fill="#C62828" opacity="0.5"/>
+    <circle cx="742" cy="150" r="3.5" fill="#6B6461" opacity="0.5"/>
+    <circle cx="392" cy="96" r="3" fill="#6B6461" opacity="0.4"/>
   </g>
 </svg>

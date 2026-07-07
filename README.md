@@ -2,7 +2,7 @@
   <a href="https://imanimanyara.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-      <img alt="Imani Manyara — software engineer" src="assets/hero-light.svg" width="888">
+      <img alt="Abstract artwork in warm flame tones — imanimanyara.com" src="assets/hero-light.svg" width="888">
     </picture>
   </a>
 </div>
