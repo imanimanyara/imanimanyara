@@ -15,21 +15,22 @@
 </div>
 -->
 
-Senior software engineer and founder of [Simtabi](https://simtabi.com), a software
-design agency and design & branding studio. I build developer tooling and Laravel
-packages, and open-source the parts worth sharing.
+I'm Imani — a senior software engineer and the founder of
+[Simtabi](https://simtabi.com), a software design agency and design & branding
+studio. Most of my time goes into developer tooling and Laravel packages; the
+parts worth sharing end up open source.
 
-Author of the [laranail](https://github.com/laranail) package family —
-[`package-tools`](https://github.com/laranail/package-tools),
+I wrote and maintain the [laranail](https://github.com/laranail) package
+family — [`package-tools`](https://github.com/laranail/package-tools),
 [`package-scaffolder`](https://github.com/laranail/package-scaffolder),
 [`database-tools`](https://github.com/laranail/database-tools),
 [`console`](https://github.com/laranail/console),
-[`enumerator`](https://github.com/laranail/enumerator) — and of the developer
-tools at [@simtabi](https://github.com/simtabi), including
+[`enumerator`](https://github.com/laranail/enumerator) — along with the
+developer tools at [@simtabi](https://github.com/simtabi), including
 [`probaci`](https://github.com/simtabi/probaci),
 [`osaat`](https://github.com/simtabi/osaat), and
-[`release-kit`](https://github.com/simtabi/release-kit). Everything we publish lives
-at [opensource.simtabi.com](https://opensource.simtabi.com).
+[`release-kit`](https://github.com/simtabi/release-kit). Everything we publish
+lives at [opensource.simtabi.com](https://opensource.simtabi.com).
 
 <!-- Activity since 2023 — enable after self-hosting streak-stats on Vercel
      (DenverCoder1/github-readme-streak-stats + PAT), per the brand standard.
