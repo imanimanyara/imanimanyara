@@ -28,7 +28,7 @@ Author of the [laranail](https://github.com/laranail) package family —
 tools at [@simtabi](https://github.com/simtabi), including
 [`probaci`](https://github.com/simtabi/probaci),
 [`osaat`](https://github.com/simtabi/osaat), and
-[`repoclone`](https://github.com/simtabi/repoclone). Everything we publish lives
+[`release-kit`](https://github.com/simtabi/release-kit). Everything we publish lives
 at [opensource.simtabi.com](https://opensource.simtabi.com).
 
 <!-- Activity since 2023 — enable after self-hosting streak-stats on Vercel
