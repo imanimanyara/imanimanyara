@@ -2,23 +2,20 @@
   <a href="https://imanimanyara.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-      <img alt="Imani Manyara — senior software engineer" src="assets/hero-light.svg" width="888">
+      <img alt="Imani Manyara — software engineer" src="assets/hero-light.svg" width="888">
     </picture>
   </a>
 </div>
 
-Imani Manyara is a senior software engineer and the founder of
-[Simtabi](https://simtabi.com), a software design agency and design & branding
-studio. Most of his time goes into developer tooling and Laravel packages; the
-parts worth sharing end up open source.
-
-He is the author and maintainer of the [laranail](https://github.com/laranail)
-package family — [`package-tools`](https://github.com/laranail/package-tools),
+Imani Manyara is a software engineer working on developer tooling and Laravel
+packages at [Simtabi](https://simtabi.com). He maintains the
+[laranail](https://github.com/laranail) package family —
+[`package-tools`](https://github.com/laranail/package-tools),
 [`package-scaffolder`](https://github.com/laranail/package-scaffolder),
 [`database-tools`](https://github.com/laranail/database-tools),
 [`console`](https://github.com/laranail/console), and
-[`enumerator`](https://github.com/laranail/enumerator) — along with the
-developer tools at [@simtabi](https://github.com/simtabi), including
+[`enumerator`](https://github.com/laranail/enumerator) — and the developer
+tools at [@simtabi](https://github.com/simtabi), including
 [`probaci`](https://github.com/simtabi/probaci),
 [`osaat`](https://github.com/simtabi/osaat), and
 [`release-kit`](https://github.com/simtabi/release-kit). Everything Simtabi

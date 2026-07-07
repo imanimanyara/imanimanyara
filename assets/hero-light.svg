@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Imani Manyara — senior software engineer">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-label="Imani Manyara — software engineer">
   <defs>
     <linearGradient id="flame" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#E8501B"/>
@@ -13,6 +13,6 @@
     <circle cx="1130" cy="320" r="150" fill="none" stroke="url(#flame)" stroke-width="3" opacity="0.4"/>
     <circle cx="1042" cy="120" r="9" fill="url(#flame)"/>
     <text x="82" y="200" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-1.5" fill="#1F1B1A">Imani Manyara<tspan fill="#E8501B">.</tspan></text>
-    <text x="85" y="258" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" fill="#6B6461">Senior software engineer · Founder of Simtabi</text>
+    <text x="85" y="258" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" fill="#6B6461">Software engineer · Developer tooling and Laravel packages</text>
   </g>
 </svg>
