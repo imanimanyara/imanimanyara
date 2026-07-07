@@ -7,22 +7,22 @@
   </a>
 </div>
 
-I'm Imani — a senior software engineer and the founder of
+Imani Manyara is a senior software engineer and the founder of
 [Simtabi](https://simtabi.com), a software design agency and design & branding
-studio. Most of my time goes into developer tooling and Laravel packages; the
+studio. Most of his time goes into developer tooling and Laravel packages; the
 parts worth sharing end up open source.
 
-I wrote and maintain the [laranail](https://github.com/laranail) package
-family — [`package-tools`](https://github.com/laranail/package-tools),
+He is the author and maintainer of the [laranail](https://github.com/laranail)
+package family — [`package-tools`](https://github.com/laranail/package-tools),
 [`package-scaffolder`](https://github.com/laranail/package-scaffolder),
 [`database-tools`](https://github.com/laranail/database-tools),
-[`console`](https://github.com/laranail/console),
+[`console`](https://github.com/laranail/console), and
 [`enumerator`](https://github.com/laranail/enumerator) — along with the
 developer tools at [@simtabi](https://github.com/simtabi), including
 [`probaci`](https://github.com/simtabi/probaci),
 [`osaat`](https://github.com/simtabi/osaat), and
-[`release-kit`](https://github.com/simtabi/release-kit). Everything we publish
-lives at [opensource.simtabi.com](https://opensource.simtabi.com).
+[`release-kit`](https://github.com/simtabi/release-kit). Everything Simtabi
+publishes lives at [opensource.simtabi.com](https://opensource.simtabi.com).
 
 <!-- Activity since 2023 — enable after self-hosting streak-stats on Vercel
      (DenverCoder1/github-readme-streak-stats + PAT), per the brand standard.
