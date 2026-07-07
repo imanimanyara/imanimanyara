@@ -1,19 +1,11 @@
 <div align="center">
   <a href="https://imanimanyara.com">
-    <img alt="Imani Manyara — senior software engineer" src="https://github.com/imanimanyara/imanimanyara/assets/19682005/032c11f7-62f9-4e3e-9a1a-393031282d47" width="888">
-  </a>
-</div>
-<!-- Replace the image above with the brand hero when assets/hero-{light,dark}.svg
-     land, per /opensource/simtabi-brand-design-standard.md:
-<div align="center">
-  <a href="https://imanimanyara.com">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
       <img alt="Imani Manyara — senior software engineer" src="assets/hero-light.svg" width="888">
     </picture>
   </a>
 </div>
--->
 
 I'm Imani — a senior software engineer and the founder of
 [Simtabi](https://simtabi.com), a software design agency and design & branding
