@@ -7,20 +7,23 @@
   </a>
 </div>
 
-Creator of the [laranail](https://github.com/laranail) package family —
+Creator of [laranail](https://github.com/laranail) — Laravel packages for
+building, scaffolding, and shipping your own Laravel packages:
 [`package-tools`](https://github.com/laranail/package-tools),
 [`package-scaffolder`](https://github.com/laranail/package-scaffolder),
 [`database-tools`](https://github.com/laranail/database-tools),
 [`console`](https://github.com/laranail/console), and
 [`enumerator`](https://github.com/laranail/enumerator).
 
-Founder of [Simtabi](https://simtabi.com), a software design agency and
-design & branding studio.
+Founder of [Simtabi](https://simtabi.com) — a studio designing software,
+brands, and the tools in between.
 
-Working on developer tooling at [@simtabi](https://github.com/simtabi) —
-[`probaci`](https://github.com/simtabi/probaci),
-[`osaat`](https://github.com/simtabi/osaat), and
-[`release-kit`](https://github.com/simtabi/release-kit).
+Working on developer tooling at [@simtabi](https://github.com/simtabi):
+[`probaci`](https://github.com/simtabi/probaci) runs your CI checks locally
+before you push, [`osaat`](https://github.com/simtabi/osaat) audits what's
+installed on a machine, and
+[`release-kit`](https://github.com/simtabi/release-kit) publishes to every
+registry from one config.
 
 Open source author: [opensource.simtabi.com](https://opensource.simtabi.com).
 
