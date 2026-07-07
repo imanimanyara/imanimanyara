@@ -15,8 +15,8 @@ building, scaffolding, and shipping your own Laravel packages:
 [`console`](https://github.com/laranail/console), and
 [`enumerator`](https://github.com/laranail/enumerator).
 
-Founder of [Simtabi](https://simtabi.com) — a studio designing software,
-brands, and the tools in between.
+Founder of [Simtabi](https://simtabi.com) — a studio designing and building
+software, brands, and the tools in between.
 
 Working on developer tooling at [@simtabi](https://github.com/simtabi):
 [`probaci`](https://github.com/simtabi/probaci) runs your CI checks locally
