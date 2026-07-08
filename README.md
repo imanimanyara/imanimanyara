@@ -11,7 +11,7 @@ Creator of [laranail](https://github.com/laranail) — Laravel packages for
 building, scaffolding, and shipping your own Laravel packages:
 [`package-tools`](https://github.com/laranail/package-tools),
 [`package-scaffolder`](https://github.com/laranail/package-scaffolder),
-[`database-tools`](https://github.com/laranail/database-tools),
+[`db-tools`](https://github.com/laranail/db-tools),
 [`console`](https://github.com/laranail/console), and
 [`enumerator`](https://github.com/laranail/enumerator).
 
