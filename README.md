@@ -25,6 +25,9 @@ registry from one config.
 [Simtabi](https://simtabi.com) is a studio designing and building software,
 brands, and the tools in between.
 
+Security: [security@simtabi.com](mailto:security@simtabi.com) — never a public issue.
+See the [security policy](https://github.com/imanimanyara/.github/security/policy).
+
 [Website](https://imanimanyara.com) · [Simtabi](https://simtabi.com) ·
 [LinkedIn](https://linkedin.com/in/imanimanyara) ·
 [X](https://x.com/imanimanyara) ·
