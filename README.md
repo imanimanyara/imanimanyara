@@ -31,4 +31,4 @@ See the [security policy](https://github.com/imanimanyara/.github/security/polic
 [Website](https://imanimanyara.com) · [Simtabi](https://simtabi.com) ·
 [LinkedIn](https://linkedin.com/in/imanimanyara) ·
 [X](https://x.com/imanimanyara) ·
-[imani@simtabi.com](mailto:imani@simtabi.com)
+[opensource@simtabi.com](mailto:opensource@simtabi.com)
